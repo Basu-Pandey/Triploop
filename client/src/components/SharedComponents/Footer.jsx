@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="container">
         <div className="bio">
           <Link to="/" className="main-logo">
-            TrekNest
+          Triploop∞
           </Link>
 
 

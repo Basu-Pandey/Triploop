@@ -2,8 +2,8 @@ const config = {
   host: "smtp-relay.brevo.com",
   port: 587,
   auth: {
-    user: "meer.uxair007@gmail.com",
-    pass: "BgWHsOSMf1pJN8C4",
+    user: "7b2abb001@smtp-brevo.com",
+    pass: "BVaFWX6DxUyEmALN",
   },
 };
 
