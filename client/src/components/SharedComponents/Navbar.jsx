@@ -53,7 +53,7 @@ const Navbar = () => {
           </span>
           <div className="contactInfo">
             <span>To more inquiry</span>
-            <a href="tel:+918899080590">+91 8899080590</a>
+            <a href="tel:+91 8103688114">+91 8103688114</a>
           </div>
         </div>
       </div>
@@ -75,11 +75,16 @@ const Wrapper = styled.nav`
   padding: 3rem;
   .main-logo{
 font-size: 2rem;
-color: black;
+color:  #11212D;
 font-weight: 700;
-background-color: yellow;
+background-color: #9BA8AB;
 padding: .5rem 1rem;
+border-radius:50px 10px ;
   }
+.main-logo:hover {
+ color:#FEC2D6;
+ background-color:#F5347F;
+}
   img {
     max-width: 300px;
     height: 100%;
@@ -239,6 +244,7 @@ padding: .5rem 1rem;
       padding: 1rem 0.2rem 0 0.2rem;
     }
   }
+    
 `;
 
 export default Navbar

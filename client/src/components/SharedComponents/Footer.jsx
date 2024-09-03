@@ -157,11 +157,16 @@ margin-top: auto;
     color: var(--primary-color2);
   }  .main-logo{
 font-size: 2rem;
-color: black;
+color: #3A2618;
 font-weight: 700;
-background-color: yellow;
+background-color: #FADCE4;
 padding: .5rem 1rem;
+border-radius:50px 10px ;
   }
+.main-logo:hover {
+ color:#854F6C;
+ background-color:#DFB6B2;
+}
   .sub-footer{
     padding: 1rem;
     
