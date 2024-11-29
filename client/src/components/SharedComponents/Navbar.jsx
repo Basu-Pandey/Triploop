@@ -77,13 +77,13 @@ const Wrapper = styled.nav`
 font-size: 2rem;
 color:  #11212D;
 font-weight: 700;
-background-color: #9BA8AB;
+background-color: #FADCE4;
 padding: .5rem 1rem;
 border-radius:50px 10px ;
   }
 .main-logo:hover {
- color:#FEC2D6;
- background-color:#F5347F;
+ color:#854F6C;
+ background-color:#DFB6B2;
 }
   img {
     max-width: 300px;
