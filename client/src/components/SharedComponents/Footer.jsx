@@ -51,7 +51,7 @@ const Footer = () => {
               <FaLocationDot />
               Address
             </h5>
-            <a>Bholaram, Indore, Madhya Pardesh, India</a>
+            <a> Hyderabad, India</a>
           </div>
         </div>
         <div className="social">
